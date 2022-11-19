@@ -1,9 +1,9 @@
 # Week 05
 
 ### Task
-1.canny detail实现
-2.canny 实现
-3.透视变换实现
+1.canny detail实现<br>
+2.canny 实现<br>
+3.透视变换实现<br>
 
 ### Result
 #### 1. canny detail实现
