@@ -38,7 +38,7 @@ h, w, _ = img.shape
 data = img.reshape((h * w, 3))
 data = np.float32(data)
 
-# 聚类次数
+# 聚类类簇数
 # k_array = [2, 4, 8, 16, 32, 64, 128]
 k_array = [2, 4, 8, 16, 32]
 

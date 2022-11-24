@@ -38,7 +38,7 @@ h, w = img.shape
 data = img.reshape((h * w, 1))
 data = np.float32(data)
 
-# 聚类次数
+# 聚类类簇数
 k = 6
 
 # 迭代模式选择
