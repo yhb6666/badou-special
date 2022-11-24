@@ -1,6 +1,6 @@
 """
 @author: Rai
-K-Means聚类
+K-Means聚类:彩色图像
 """
 
 import cv2

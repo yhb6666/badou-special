@@ -1,6 +1,6 @@
 """
 @author: Rai
-K-Means聚类
+K-Means聚类:黑白图像
 """
 
 import cv2
@@ -24,7 +24,7 @@ retval, bestLabels, centers =cv2.kmeans(data, K, bestLabels, criteria, attempts,
                                    相互距离尽可能远
           --cv2.KMEANS_RANDOM_CENTERS：随机选择
     centers：集群中心的输出矩阵，每个集群中心为一行数据
-    
+
 输出：
     compactness：紧密度，返回每个点到相应重心的距离的平方和
     labels：结果标记，每个成员被标记为分组的序号，如 0,1,2,3,4...等

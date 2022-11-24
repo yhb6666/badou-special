@@ -1,6 +1,6 @@
 """
 @author: Rai
-KMean聚类
+KMean聚类:运动员数据
 """
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
