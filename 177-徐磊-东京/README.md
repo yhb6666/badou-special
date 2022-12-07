@@ -9,4 +9,4 @@
 |  [04](./Week_04)  |图像滤波器&边缘选择| 高斯噪声,椒盐噪声,PCA | 
 |  [05](./Week_05)  |边缘检测&相机模型| canny,透视变换 |
 |  [06](./Week_06)  |三维&图形聚类| KMeans聚类 |
-|  [07)(./Week_07)  |SIFT&opencv算法| ransac, hash |
+|  [07](./Week_07)  |SIFT&opencv算法| ransac, hash |
